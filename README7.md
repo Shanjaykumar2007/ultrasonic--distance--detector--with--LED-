@@ -11,7 +11,7 @@ To interface an HC-SR04 ultrasonic sensor with an Arduino Uno to detect nearby o
 ## Component:
 
 ![][image1]
-
+![image1](componentultraled.jpeg)
 &nbsp;
 
 &nbsp;
@@ -27,13 +27,13 @@ To interface an HC-SR04 ultrasonic sensor with an Arduino Uno to detect nearby o
 #### CIRCUIT DIAGRAM :
 
 ![][image2]
-
+![image2](circuitdiagramultraled.jpeg)
 &nbsp;
 
 ##### SCHEMATIC DIAGRAM:
 
 #### ![][image3]
-
+![image3](schematicdiagramultraled.jpeg)
 CODE:
 
 &nbsp;
